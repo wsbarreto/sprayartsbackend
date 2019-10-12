@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\sparyartsbackend.Data\sprayartsbackend.Data.csproj" />
+    <ProjectReference Include="..\sprayartsbackend.DI\sprayartsbackend.DI.csproj" />
+    <ProjectReference Include="..\sprayartsbackend.Domain\sprayartsbackend.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

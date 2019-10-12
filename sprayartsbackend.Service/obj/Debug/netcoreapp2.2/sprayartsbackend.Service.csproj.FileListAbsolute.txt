@@ -1,0 +1,16 @@
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\bin\Debug\netcoreapp2.2\sprayartsbackend.Service.deps.json
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\bin\Debug\netcoreapp2.2\sprayartsbackend.Service.dll
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\bin\Debug\netcoreapp2.2\sprayartsbackend.Service.pdb
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\bin\Debug\netcoreapp2.2\sprayartsbackend.Data.dll
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\bin\Debug\netcoreapp2.2\sprayartsbackend.DI.dll
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\bin\Debug\netcoreapp2.2\sprayartsbackend.Domain.dll
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\bin\Debug\netcoreapp2.2\sprayartsbackend.Data.pdb
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\bin\Debug\netcoreapp2.2\sprayartsbackend.DI.pdb
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\bin\Debug\netcoreapp2.2\sprayartsbackend.Domain.pdb
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\obj\Debug\netcoreapp2.2\sprayartsbackend.Service.csprojAssemblyReference.cache
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\obj\Debug\netcoreapp2.2\sprayartsbackend.Service.csproj.CoreCompileInputs.cache
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\obj\Debug\netcoreapp2.2\sprayartsbackend.Service.AssemblyInfoInputs.cache
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\obj\Debug\netcoreapp2.2\sprayartsbackend.Service.AssemblyInfo.cs
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\obj\Debug\netcoreapp2.2\sprayartsbackend.Service.csproj.CopyComplete
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\obj\Debug\netcoreapp2.2\sprayartsbackend.Service.dll
+C:\labs\sprayarts\backend\sprayartsbackend\sprayartsbackend.Service\obj\Debug\netcoreapp2.2\sprayartsbackend.Service.pdb

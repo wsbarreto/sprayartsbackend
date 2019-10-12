@@ -1,0 +1,14 @@
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\bin\Debug\netcoreapp2.2\sprayartsbackend.Data.deps.json
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\bin\Debug\netcoreapp2.2\sprayartsbackend.Data.dll
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\bin\Debug\netcoreapp2.2\sprayartsbackend.Data.pdb
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\bin\Debug\netcoreapp2.2\sprayartsbackend.Domain.dll
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\bin\Debug\netcoreapp2.2\sprayartsbackend.Domain.pdb
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\obj\Debug\netcoreapp2.2\sprayartsbackend.Data.csprojAssemblyReference.cache
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\obj\Debug\netcoreapp2.2\sprayartsbackend.Data.csproj.CoreCompileInputs.cache
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\obj\Debug\netcoreapp2.2\sprayartsbackend.Data.AssemblyInfoInputs.cache
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\obj\Debug\netcoreapp2.2\sprayartsbackend.Data.AssemblyInfo.cs
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\obj\Debug\netcoreapp2.2\sprayartsbackend.Data.csproj.CopyComplete
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\obj\Debug\netcoreapp2.2\sprayartsbackend.Data.dll
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\obj\Debug\netcoreapp2.2\sprayartsbackend.Data.pdb
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\bin\Debug\netcoreapp2.2\sprayartsbackend.Data.runtimeconfig.json
+C:\labs\sprayarts\backend\sprayartsbackend\sparyartsbackend.Data\bin\Debug\netcoreapp2.2\sprayartsbackend.Data.runtimeconfig.dev.json
