@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "sprayartsbackend.Service/1.0.0": {
+        "dependencies": {
+          "sprayartsbackend.DI": "1.0.0",
+          "sprayartsbackend.Data": "1.0.0",
+          "sprayartsbackend.Domain": "1.0.0"
+        },
+        "runtime": {
+          "sprayartsbackend.Service.dll": {}
+        }
+      },
+      "sprayartsbackend.Data/1.0.0": {
+        "dependencies": {
+          "sprayartsbackend.DI": "1.0.0",
+          "sprayartsbackend.Domain": "1.0.0"
+        },
+        "runtime": {
+          "sprayartsbackend.Data.dll": {}
+        }
+      },
+      "sprayartsbackend.DI/1.0.0": {
+        "runtime": {
+          "sprayartsbackend.DI.dll": {}
+        }
+      },
+      "sprayartsbackend.Domain/1.0.0": {
+        "runtime": {
+          "sprayartsbackend.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sprayartsbackend.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sprayartsbackend.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sprayartsbackend.DI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sprayartsbackend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.DI\\sprayartsbackend.DI.csproj": {}
+  },
+  "projects": {
+    "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sparyartsbackend.Data\\sprayartsbackend.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sparyartsbackend.Data\\sprayartsbackend.Data.csproj",
+        "projectName": "sprayartsbackend.Data",
+        "projectPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sparyartsbackend.Data\\sprayartsbackend.Data.csproj",
+        "packagesPath": "C:\\Users\\Douglas Modesto\\.nuget\\packages\\",
+        "outputPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sparyartsbackend.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Douglas Modesto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj": {
+                "projectPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.DI\\sprayartsbackend.DI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.DI\\sprayartsbackend.DI.csproj",
+        "projectName": "sprayartsbackend.DI",
+        "projectPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.DI\\sprayartsbackend.DI.csproj",
+        "packagesPath": "C:\\Users\\Douglas Modesto\\.nuget\\packages\\",
+        "outputPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.DI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Douglas Modesto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sparyartsbackend.Data\\sprayartsbackend.Data.csproj": {
+                "projectPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sparyartsbackend.Data\\sprayartsbackend.Data.csproj"
+              },
+              "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj": {
+                "projectPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj",
+        "projectName": "sprayartsbackend.Domain",
+        "projectPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj",
+        "packagesPath": "C:\\Users\\Douglas Modesto\\.nuget\\packages\\",
+        "outputPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Douglas Modesto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
