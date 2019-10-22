@@ -2,7 +2,7 @@
 
 namespace sprayartsbackend.Domain
 {
-    public class Entity
+    public abstract class Entity
     {
         public Guid Id { get; private set; }
         public DateTime CreateDate { get; private set; }

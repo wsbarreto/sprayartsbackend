@@ -1,17 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29001.49
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2F72BFCB-4E81-4220-A043-48D062FE669A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sprayartsbackend.Data", "sparyartsbackend.Data\sprayartsbackend.Data.csproj", "{CE1CF7A5-0D12-4A2D-A685-CDA5407E53C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprayartsbackend.DI", "sprayartsbackend.DI\sprayartsbackend.DI.csproj", "{4F776B10-FCED-48F8-9DFA-5248F164E668}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sprayartsbackend.DI", "sprayartsbackend.DI\sprayartsbackend.DI.csproj", "{4F776B10-FCED-48F8-9DFA-5248F164E668}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprayartsbackend.Domain", "sprayartsbackend.Domain\sprayartsbackend.Domain.csproj", "{D2BB0EC8-BF1A-42E2-B31F-74F2772F4C34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sprayartsbackend.Domain", "sprayartsbackend.Domain\sprayartsbackend.Domain.csproj", "{D2BB0EC8-BF1A-42E2-B31F-74F2772F4C34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprayartsbackend.Web", "sprayartsbackend.Web\sprayartsbackend.Web.csproj", "{CFF4085A-3E0C-47E3-B6E3-5E96369375AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sprayartsbackend.Web", "sprayartsbackend.Web\sprayartsbackend.Web.csproj", "{CFF4085A-3E0C-47E3-B6E3-5E96369375AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sprayartsbackend.Service", "sprayartsbackend.Service\sprayartsbackend.Service.csproj", "{2D5CA0AE-F131-4698-B868-4D14BFB4711F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{CFF4085A-3E0C-47E3-B6E3-5E96369375AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF4085A-3E0C-47E3-B6E3-5E96369375AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF4085A-3E0C-47E3-B6E3-5E96369375AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5CA0AE-F131-4698-B868-4D14BFB4711F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5CA0AE-F131-4698-B868-4D14BFB4711F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5CA0AE-F131-4698-B868-4D14BFB4711F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5CA0AE-F131-4698-B868-4D14BFB4711F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
