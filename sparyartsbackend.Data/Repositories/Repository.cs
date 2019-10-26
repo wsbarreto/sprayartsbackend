@@ -34,6 +34,13 @@ namespace sprayartsbackend.Data.Repositories
             return null;
         }
 
+        public IEnumerable<TEntity> GetPredicate(Func<TEntity, bool> predicate)
+        {
+            var query = _context.Set<TEntity>();
+
+            return query.Where(predicate);
+        }
+
         public void Save(TEntity entity)
         {
             _context.Set<TEntity>().Add(entity);
