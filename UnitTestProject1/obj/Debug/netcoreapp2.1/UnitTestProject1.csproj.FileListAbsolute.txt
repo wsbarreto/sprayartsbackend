@@ -1,0 +1,17 @@
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\bin\Debug\netcoreapp2.1\sprayartsbackend.Integration.dll
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\bin\Debug\netcoreapp2.1\sprayartsbackend.Integration.pdb
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb

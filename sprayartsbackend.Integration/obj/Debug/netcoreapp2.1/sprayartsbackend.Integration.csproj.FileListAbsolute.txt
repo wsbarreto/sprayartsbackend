@@ -1,0 +1,12 @@
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\bin\Debug\netcoreapp2.1\sprayartsbackend.Integration.deps.json
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\bin\Debug\netcoreapp2.1\sprayartsbackend.Integration.dll
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\bin\Debug\netcoreapp2.1\sprayartsbackend.Integration.pdb
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\obj\Debug\netcoreapp2.1\sprayartsbackend.Integration.csproj.CoreCompileInputs.cache
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\obj\Debug\netcoreapp2.1\sprayartsbackend.Integration.AssemblyInfoInputs.cache
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\obj\Debug\netcoreapp2.1\sprayartsbackend.Integration.AssemblyInfo.cs
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\obj\Debug\netcoreapp2.1\sprayartsbackend.Integration.dll
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\obj\Debug\netcoreapp2.1\sprayartsbackend.Integration.pdb
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\obj\Debug\netcoreapp2.1\sprayartsbackend.Integration.csproj.CopyComplete
+D:\PROJETOS\sprayartsbackend-master\sprayartsbackend-master\sprayartsbackend.Integration\obj\Debug\netcoreapp2.1\sprayartsbackend.Integration.csprojAssemblyReference.cache

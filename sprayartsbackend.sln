@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sprayartsbackend.Web", "spr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sprayartsbackend.Service", "sprayartsbackend.Service\sprayartsbackend.Service.csproj", "{2D5CA0AE-F131-4698-B868-4D14BFB4711F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprayartsbackend.Integration", "sprayartsbackend.Integration\sprayartsbackend.Integration.csproj", "{AC3DE95D-A666-48F0-B020-8A20E46671F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sprayartsbackend.Integration", "sprayartsbackend.Integration\sprayartsbackend.Integration.csproj", "{AC3DE95D-A666-48F0-B020-8A20E46671F6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{715CAC24-C358-4E9C-83B9-126897514636}"
 EndProject
@@ -32,6 +32,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - Data", "4.2 - Data", "{A4292D9A-AB81-47C4-A19B-F44BAD62C57F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.3 - Dependency", "4.3 - Dependency", "{238AEC03-2A89-43F2-B41F-5823A1B03509}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Test", "5 - Test", "{DDFA4F3D-2268-4546-856B-355C8D1D8C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{AA009712-8855-479D-84CB-B8362F524349}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,10 @@ Global
 		{AC3DE95D-A666-48F0-B020-8A20E46671F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC3DE95D-A666-48F0-B020-8A20E46671F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC3DE95D-A666-48F0-B020-8A20E46671F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA009712-8855-479D-84CB-B8362F524349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA009712-8855-479D-84CB-B8362F524349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA009712-8855-479D-84CB-B8362F524349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA009712-8855-479D-84CB-B8362F524349}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -82,6 +90,8 @@ Global
 		{1AAA7E01-A55D-4A8E-93DD-FB98DD699F06} = {65230C05-7289-49FC-B6BD-D7279AE4A950}
 		{A4292D9A-AB81-47C4-A19B-F44BAD62C57F} = {65230C05-7289-49FC-B6BD-D7279AE4A950}
 		{238AEC03-2A89-43F2-B41F-5823A1B03509} = {65230C05-7289-49FC-B6BD-D7279AE4A950}
+		{DDFA4F3D-2268-4546-856B-355C8D1D8C03} = {2F72BFCB-4E81-4220-A043-48D062FE669A}
+		{AA009712-8855-479D-84CB-B8362F524349} = {DDFA4F3D-2268-4546-856B-355C8D1D8C03}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E7C87E3F-9222-4611-BA97-88B3116C18D8}
